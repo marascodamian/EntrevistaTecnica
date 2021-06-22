@@ -1,4 +1,4 @@
-# EntrevistaTecnica
+# Entrevista Técnica
 
 Solución al Challenge ​Entrevista Técnica con Backend (Java)
 
